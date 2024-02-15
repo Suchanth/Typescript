@@ -1,0 +1,14 @@
+var username = "Lokesh Kanagaraj";
+var isDirector = true;
+var isAge = 34;
+console.log(username);
+console.log(isDirector);
+console.log(isAge);
+var userName = ['a', 'b'];
+console.log(userName);
+var users = { username: "Ramesh", isAge: 34, isDirector: true };
+console.log(users);
+var errorCode = 401;
+console.log(errorCode);
+var tuples = ['Lokesh Kanagaraj', 34];
+console.log(tuples);
